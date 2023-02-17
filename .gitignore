@@ -4,5 +4,5 @@ venv/
 tips.md
 db.sqlite3
 .env
-/testproject1/static/admin
-/testproject1/static/ckeditor
+/testproject1/static/admin/
+/testproject1/static/ckeditor/
